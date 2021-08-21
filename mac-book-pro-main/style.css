@@ -1,0 +1,45 @@
+
+body{
+    font-family: 'Urbanist', sans-serif;
+}
+/* pc image css */
+.pc-img img {
+    width: 80%;
+  }
+  .pc-img {
+    width: 100%;
+  }
+  /* feature-area css */
+  .feature-options button {
+	background: white;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin-right: 2px;
+}
+.feature-options button:hover{
+    background-color: black;
+    color: white;
+}
+/* price table area css  */
+.table {
+	font-weight: bold;
+	width: 55%;
+}
+/* promo code area css */
+.promo-code-input input {
+	width: 250px;
+	border-color: #3744442e;
+	border-radius: 5px;
+	height: 43px;
+}
+/* promo code sumbit button  */
+.promo-code-input button {
+	padding: 10px 15px;
+	background: red;
+	border-radius: 5px;
+	border: 0;
+}
+/* total price css */
+.total-price {
+	text-align: center;
+}
